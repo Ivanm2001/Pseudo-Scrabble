@@ -1,0 +1,18 @@
+# ninja log v5
+2	660	1668973672536632953	CMakeFiles/correrTests.dir/src/Letra.cpp.o	7a94bce6b09f423
+1	661	1668973672536632953	CMakeFiles/correrTests.dir/src/ConjTrie.cpp.o	32725baa9fffc9b9
+2	1183	1668973673060628031	CMakeFiles/correrTests.dir/src/Notificacion.cpp.o	a1dc16d8b6a6fcaf
+1	1486	1668973673364625176	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	79328664b5572fc
+1487	1573	1668973673452624350	libgtest_main.a	29f9c421670b0400
+661	2488	1668973674364615784	CMakeFiles/correrTests.dir/tests/utils/NotificacionesUtils.cpp.o	9b6267777abf2a30
+661	3218	1668973675092608948	CMakeFiles/correrTests.dir/tests/juego-empezado-tests.cpp.o	c45edb7676cf7a6d
+1573	3921	1668973675796602336	CMakeFiles/correrTests.dir/tests/juego-tests.cpp.o	5751e32d328cede6
+1183	4260	1668973676132599181	CMakeFiles/correrTests.dir/tests/juego-grande-tests.cpp.o	b6ec6c284df0d171
+3218	4502	1668973676380596851	CMakeFiles/correrTests.dir/tests/letra-tests.cpp.o	9f6846e200308e10
+2489	5057	1668973676932591667	CMakeFiles/correrTests.dir/tests/juego-trivial-tests.cpp.o	3ce7f53877131bd0
+3921	5543	1668973677420587085	CMakeFiles/correrTests.dir/tests/notificacion-tests.cpp.o	b9400b57f4d1ae1
+4502	6252	1668973678128580435	CMakeFiles/correrTests.dir/tests/variante-tests.cpp.o	c4e678d0f3dc03d6
+4260	6752	1668973678624575777	CMakeFiles/correrTests.dir/tests/servidor-tests.cpp.o	904f2ee25e190cda
+0	6787	1668973678656575476	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	9bae89a0657a6598
+6788	6861	1668973678736574725	libgtest.a	ab6fdd324735d50
+2	23393	1668973695264419500	CMakeFiles/correrTests.dir/tests/utils/PalabrasComunes.cpp.o	7dd773f6d113ccef
